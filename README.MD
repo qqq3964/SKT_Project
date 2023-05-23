@@ -15,6 +15,7 @@
 ```
 <img width="990" alt="스크린샷 2023-04-11 오후 2 18 57" src="https://user-images.githubusercontent.com/97833069/231063641-037a7cb9-e84e-4e9b-8257-4a013e0c2fe3.png">
 <img width="987" alt="스크린샷 2023-04-11 오후 2 19 17" src="https://user-images.githubusercontent.com/97833069/231063635-ee66a5dc-7eae-49c5-ba58-a41f9e14ae24.png">
+
 ### 실행 영상
 
 ![hastag (online-video-cutter com) (1)](https://github.com/qqq3964/SKT_Project/assets/97833069/ab2bb635-8710-4c32-baeb-a9f99bf8560e)
